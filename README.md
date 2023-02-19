@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsingh2432002&label=Profile%20views&color=0e75b6&style=flat" alt="gsingh2432002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gaurav_kr_2002" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_kr_2002?logo=twitter&style=for-the-badge" alt="gaurav_kr_2002" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **HTML, CSS, JAVA, C.**
