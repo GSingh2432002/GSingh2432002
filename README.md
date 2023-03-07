@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **HTML, CSS, JAVA, C.**
+- 💬 Ask me about **HTML, CSS, JAVA, C, C++**
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-- ⚡ Self Rule **You either quit or Keep going. They both hurt.**
+- ⚡ Self Rule:- **You either quit or Keep going. They both hurt.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
